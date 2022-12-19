@@ -1,3 +1,3 @@
 # RPS
 
-[Swagger URL] (https://github.com/shubh-cmd/rps.git)
+[Swagger URL] (http://localhost:8080/swagger-ui/)
